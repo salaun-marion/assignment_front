@@ -5,8 +5,8 @@
 Quick install :
 
 1.`npm install`
-2.`npm start`
 
+2.`npm start`
 ... and then normally "Here we go !"
 
 # Classic React `readME` file
